@@ -1,0 +1,35 @@
+const imageUrls = [
+  "https://t3.ftcdn.net/jpg/06/13/09/64/240_F_613096406_vtcSlOBgcUGPCAmpgkOLXlhuSOy4U4UI.jpg",
+  "https://t3.ftcdn.net/jpg/02/38/11/12/240_F_238111250_d5WlKcaaqoNPWR6iLBwJ00bSGSqyYPv1.jpg",
+  "https://t4.ftcdn.net/jpg/00/53/46/23/240_F_53462348_dFvkGzgYq1GSjjIyv4nHhGFnIl6RgTX9.jpg",
+  "https://t4.ftcdn.net/jpg/06/18/77/51/240_F_618775187_wG9B27IoyGN5yphzyPr998ceIl6WInxq.jpg",
+  "https://t4.ftcdn.net/jpg/01/68/69/59/240_F_168695918_tsDFFIcQ3kOuCqQS2x2NjarXZvZZZQlJ.jpg",
+  "https://t4.ftcdn.net/jpg/09/02/57/77/240_F_902577749_jPB7lPdrr0svLwb9NF5f8dxEPVMyBvNE.jpg",
+  "https://t4.ftcdn.net/jpg/06/18/38/23/240_F_618382314_PgVB3L1zxkutchyZv9A2XmQjVYtzX6QH.jpg", 
+  "https://t3.ftcdn.net/jpg/02/24/14/28/240_F_224142866_huDpQOTKpLOCNiP5UKnvA6loxM13VRT2.jpg",
+  "https://t3.ftcdn.net/jpg/01/68/69/66/240_F_168696633_eVL0tIPVPB2pgh0o09E8o5UIfhl7EM2i.jpg",
+  "https://t4.ftcdn.net/jpg/06/49/81/15/240_F_649811571_TLVx3WE5GJSO1RTPVOv4cDj5PDCn38bL.jpg",
+  "https://t4.ftcdn.net/jpg/02/99/39/69/240_F_299396947_hq6fe3oizzhvCAeH8gf73Elnpp038gpg.jpg",
+  "https://t3.ftcdn.net/jpg/00/49/88/48/240_F_49884858_XiIh0sO99YLGBaCcWpIVituBpX1RwUmK.jpg",
+  "https://t4.ftcdn.net/jpg/06/21/71/41/240_F_621714158_o30YeELYnMIp2Ny9Gh60SziiLWcsV3RA.jpg",
+  "https://t3.ftcdn.net/jpg/01/68/74/28/240_F_168742870_UDkNk0u0dmmwO659Wzdr5lQbSHeqT4En.jpg",
+  "https://t3.ftcdn.net/jpg/03/97/06/16/240_F_397061672_vkJtwWZLSVd3bAe6TC56GMu1YQRr9dVv.jpg",
+  "https://t4.ftcdn.net/jpg/08/53/73/97/240_F_853739770_4ClgDBCIgNg2evChF0WtGyfGwOgNBGeM.jpg",
+  "https://t4.ftcdn.net/jpg/06/62/45/27/240_F_662452706_xJqPUaLBPxDBWirGkMcueOBu54EzWCWX.jpg",
+  "https://t4.ftcdn.net/jpg/02/46/42/77/240_F_246427767_EUTQx7h2dnSnnONK2uq2euVmS6wUudSy.jpg",
+  "https://t3.ftcdn.net/jpg/06/89/56/04/240_F_689560470_972xnGuDEoB0ZNc6rFAwpm0qNIw3kIhW.jpg",
+  "https://t4.ftcdn.net/jpg/00/02/66/69/240_F_2666932_SLo3vog3RwpCDNtme1Gmef2HnfY4ng.jpg",
+  "https://t3.ftcdn.net/jpg/06/34/32/82/240_F_634328210_yH7gsUIfcoL2OE4vAyNbiMx5CNCmEMYu.jpg",
+  "https://t3.ftcdn.net/jpg/05/39/76/28/240_F_539762817_90lTAPZAQwcS9nMzlfpGW0GW1JIttMTE.jpg",
+  "https://t3.ftcdn.net/jpg/01/04/49/90/240_F_104499078_FoEp3MzZz8xBa1kjq4R1Z5PTHMF2cvSi.jpg", 
+  "https://t3.ftcdn.net/jpg/06/18/71/12/240_F_618711202_QBwZ2BMKFZwW3NRZxPitYgoly1BgV3fo.jpg", 
+  "https://t3.ftcdn.net/jpg/10/16/95/02/240_F_1016950217_Y4Ag00FOgZXDVzCbvHZU2m51T2GEq6d6.jpg", 
+  "https://t4.ftcdn.net/jpg/09/26/12/71/240_F_926127140_xBpNPOPQ55LyX8jImt92bQF0iqZKVUa3.jpg", 
+  "https://t4.ftcdn.net/jpg/02/52/55/89/240_F_252558973_Vpb8cgj3yrZFFxwkCWROwvnDvQ8G1rGM.jpg",
+  "https://t3.ftcdn.net/jpg/08/40/56/60/240_F_840566030_bqZCmvchOfSgNfGUbPOir5D3wtNKUxH4.jpg",
+  "https://t4.ftcdn.net/jpg/00/66/52/25/240_F_66522506_jRvrrnnfbu3TC1wrqXGvFJFmDTm2XTo6.jpg",
+  "https://t3.ftcdn.net/jpg/08/20/61/96/240_F_820619698_J6FBXI19GdgKgCB4SQUe91wRWpwwaJpj.jpg"
+];
+
+
+module.exports = imageUrls;
