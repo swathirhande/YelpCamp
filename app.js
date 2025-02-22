@@ -137,7 +137,12 @@ app.use((err, req, res, next) => {
 })
 
 
-const port = process.env.PORT || 3000;
+/*const port = process.env.PORT || 10000;
 app.listen(port, () => {
+    console.log(`Listening on port ${port}`);
+});*/
+
+const port = process.env.PORT || 10000; // Set to 10000 for Render
+app.listen(port, '0.0.0.0', () => {
     console.log(`Listening on port ${port}`);
 });
