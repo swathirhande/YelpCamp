@@ -13,9 +13,6 @@ YelpCamp is a **Node.js, Express, MongoDB, and Bootstrap** powered web applicati
 ✅ **Flash Messages**: Enhances UX with feedback notifications.  
 ✅ **Responsive UI**: Built using Bootstrap to ensure mobile compatibility.  
 
-## 📸 Screenshots
-![Home Page](https://github.com/swathirhande/images/blob/main/yelpCamp.png) 
-
 ## 🏗 Tech Stack
 - **Backend**: Node.js, Express, MongoDB, Mongoose
 - **Frontend**: EJS, Bootstrap, JavaScript
