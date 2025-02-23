@@ -36,11 +36,25 @@ YelpCamp is a **Node.js, Express, MongoDB, and Bootstrap** powered web applicati
    DATABASE_URL=your_mongodb_uri
    MAPTILER_TOKEN=your_maptiler_token
    ```
-4. **Run the application**:
+4.**Port Configuration
+
+By default, this application is set to use **port 10000** because Render requires web services to bind to `0.0.0.0` on a specific port (usually **10000**). However, if you're running the project locally, it's recommended to change the port to **3000** for consistency with local development practices.
+
+### Update the Code:
+Before running the app locally, **update the port configuration** in `app.js`:
+
+```javascript
+const port = process.env.PORT || 3000; // Change 10000 to 3000 for local development
+app.listen(port, '0.0.0.0', () => {
+    console.log(`Listening on port ${port}`);
+});
+```
+
+5. **Run the application**:
    ```sh
    npm start
    ```
-5. Open `http://localhost:3000` in your browser.
+6. Open `http://localhost:3000` in your browser.
 
 ## 🌍 Live Demo
 You can view the website at: **[YelpCamp Live](https://yelpcamp-1-dpmx.onrender.com/)**
