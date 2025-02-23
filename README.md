@@ -36,7 +36,7 @@ YelpCamp is a **Node.js, Express, MongoDB, and Bootstrap** powered web applicati
    DATABASE_URL=your_mongodb_uri
    MAPTILER_TOKEN=your_maptiler_token
    ```
-4. **Port Configuration
+4. **Port Configuration**:
 
 By default, this application is set to use **port 10000** because Render requires web services to bind to `0.0.0.0` on a specific port (usually **10000**). However, if you're running the project locally, it's recommended to change the port to **3000** for consistency with local development practices.
 
