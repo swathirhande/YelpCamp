@@ -1,6 +1,6 @@
 # YelpCamp
 
-![YelpCamp](https://flic.kr/p/2qNg49i)  
+![YelpCamp](https://github.com/swathirhande/images/blob/main/yelpCamp.png)  
 *A full-stack web application for camping enthusiasts to explore, review, and share campgrounds.*
 
 ## 🚀 Overview
@@ -14,7 +14,7 @@ YelpCamp is a **Node.js, Express, MongoDB, and Bootstrap** powered web applicati
 ✅ **Responsive UI**: Built using Bootstrap to ensure mobile compatibility.  
 
 ## 📸 Screenshots
-![Home Page](https://flic.kr/p/2qNg49i) 
+![Home Page](https://github.com/swathirhande/images/blob/main/yelpCamp.png) 
 
 ## 🏗 Tech Stack
 - **Backend**: Node.js, Express, MongoDB, Mongoose
